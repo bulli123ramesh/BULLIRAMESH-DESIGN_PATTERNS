@@ -1,4 +1,4 @@
-package com.satya.Epam_DesignPatterns;
+package com.epam.Design_patterns;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
